@@ -1,0 +1,63 @@
+[2025-11-20 18:37:42][INFO] === Log đã được reset ===
+[2025-11-20 18:40:04][SEARCH] Searching: 'Cây'
+[2025-11-20 18:40:05][FOUND] ID: 2078916240 | CAY - KHẮC HƯNG, JIMMII NGUYỄN - Jacka | Audio: /proxy_audio?id=2078916240  | Lyric: /proxy_lyric?id=2078916240
+[2025-11-20 18:40:05][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=2078916240
+[2025-11-20 18:44:29][SEARCH] Searching: 'Hãy Trao Cho Anh'
+[2025-11-20 18:44:30][FOUND] ID: 647796246 | Hãy Trao Cho Anh - Sơn Tùng M-TP, Snoop Dogg | Eric T-J Remix ( Beat cover ) - Eric T-J - Producer ★ | Audio: /proxy_audio?id=647796246  | Lyric: /proxy_lyric?id=647796246
+[2025-11-20 18:44:30][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=647796246
+[2025-11-20 18:55:12][SEARCH] Searching: 'Hãy Trao Cho Anh'
+[2025-11-20 18:55:13][FOUND] ID: 647796246 | Hãy Trao Cho Anh - Sơn Tùng M-TP, Snoop Dogg | Eric T-J Remix ( Beat cover ) - Eric T-J - Producer ★ | Audio: /proxy_audio?id=647796246  | Lyric: /proxy_lyric?id=647796246
+[2025-11-20 18:55:13][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=647796246
+[2025-11-20 19:09:26][SEARCH] Searching: 'cay jimmy nguyen'
+[2025-11-20 19:09:26][FOUND] ID: 2078916240 | CAY - KHẮC HƯNG, JIMMII NGUYỄN - Jacka | Audio: /proxy_audio?id=2078916240  | Lyric: /proxy_lyric?id=2078916240
+[2025-11-20 19:09:26][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=2078916240
+[2025-11-21 12:27:36][SEARCH] Searching: 'Nhạc ngủ'
+[2025-11-21 12:27:37][FOUND] ID: 1303025956 | Nhạc Chill Dễ Ngủ  2h Chìm Vào Những Bản Lofi Việt Nhẹ Nhàng Cực Chill Để Thư Giãn Giảm Stress - phan anh | Audio: /proxy_audio?id=1303025956  | Lyric: /proxy_lyric?id=1303025956
+[2025-11-21 12:27:37][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=1303025956
+[2025-11-21 19:01:31][SEARCH] Searching: 'nhạc đi làm'
+[2025-11-21 19:01:33][FOUND] ID: 1800050443 | Nhạc Nghe Đi Làm Vol 1 - Dũng Anh - Dũng Phạm Hoàng | Audio: /proxy_audio?id=1800050443  | Lyric: /proxy_lyric?id=1800050443
+[2025-11-21 19:01:33][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=1800050443
+[2025-11-22 09:30:32][SEARCH] Searching: 'Shopping Mày'
+[2025-11-22 09:30:34][FOUND] ID: 2215084175 | Holiday Shopping Outlook: Why Santa may tighten his belt this year - Economic Insights by Nationwide | Audio: /proxy_audio?id=2215084175  | Lyric: /proxy_lyric?id=2215084175
+[2025-11-22 09:30:34][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=2215084175
+[2025-11-22 09:31:09][SEARCH] Searching: 'Merry Christmas'
+[2025-11-22 09:31:10][FOUND] ID: 1988428003 | MERRY CHRISTMAS BY ANDERSON RODRIGUEZ🎄 - 𝐀𝐧𝐝𝐞𝐫𝐬𝐨𝐧 𝐑𝐨𝐝𝐫í𝐠𝐮𝐞𝐳 𝐃𝐣 | Audio: /proxy_audio?id=1988428003  | Lyric: /proxy_lyric?id=1988428003
+[2025-11-22 09:31:10][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=1988428003
+[2025-11-22 09:34:07][SEARCH] Searching: 'Thất Tình'
+[2025-11-22 09:34:08][FOUND] ID: 211223303 | Trịnh Đình Quang – Thất Tình - Mạnh Đỗ | Audio: /proxy_audio?id=211223303  | Lyric: /proxy_lyric?id=211223303
+[2025-11-22 09:34:08][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=211223303
+[2025-11-22 15:41:28][SEARCH] Searching: 'Đi Về Nhà'
+[2025-11-22 15:41:29][FOUND] ID: 950569009 | Đen x JustaTee - Đi Về Nhà - denvau | Audio: /proxy_audio?id=950569009  | Lyric: /proxy_lyric?id=950569009
+[2025-11-22 15:41:29][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=950569009
+[2025-11-22 15:45:23][SEARCH] Searching: 'Happy New Year'
+[2025-11-22 15:45:24][FOUND] ID: 1990871195 | Happy New Year - FRIENDLY THUG 52 NGG | Audio: /proxy_audio?id=1990871195  | Lyric: /proxy_lyric?id=1990871195
+[2025-11-22 15:45:24][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=1990871195
+[2025-11-22 16:17:43][SEARCH] Searching: 'Chúng Ta Của Tương Lai'
+[2025-11-22 16:17:44][FOUND] ID: 1768130814 | CHÚNG TA CỦA TƯƠNG LAI - yuu | Audio: /proxy_audio?id=1768130814  | Lyric: /proxy_lyric?id=1768130814
+[2025-11-22 16:17:44][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=1768130814
+[2025-11-22 17:34:39][SEARCH] Searching: 'Chúng Ta Giữ Lại Dĩ Vào Đây Thôi'
+[2025-11-22 17:34:40][FOUND] ID: 1324643812 | DI LÊ COVER -Chúng Ta Dừng Lại Ở Đây Thôi -  JET - Đỗ Cường [C.G] | Audio: /proxy_audio?id=1324643812  | Lyric: /proxy_lyric?id=1324643812
+[2025-11-22 17:34:40][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=1324643812
+[2025-11-22 17:35:34][SEARCH] Searching: 'Còn gì đẹp hơn tình bạn chúng ta'
+[2025-11-22 17:35:35][WARN] No result for: Còn gì đẹp hơn tình bạn chúng ta
+[2025-11-22 17:35:50][SEARCH] Searching: 'Còn gì đẹp hơn'
+[2025-11-22 17:35:50][FOUND] ID: 2137937790 | Còn gì đẹp hơn - Nguyễn Hùng | Ost "Mưa Đỏ " - luminous | Audio: /proxy_audio?id=2137937790  | Lyric: /proxy_lyric?id=2137937790
+[2025-11-22 17:35:50][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=2137937790
+[2025-11-22 17:41:55][SEARCH] Searching: 'Còn gì đẹp hơn'
+[2025-11-22 17:41:56][FOUND] ID: 2137937790 | Còn gì đẹp hơn - Nguyễn Hùng | Ost "Mưa Đỏ " - luminous | Audio: /proxy_audio?id=2137937790  | Lyric: /proxy_lyric?id=2137937790
+[2025-11-22 17:41:56][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=2137937790
+[2025-11-22 19:56:10][SEARCH] Searching: 'Mừng Xuân Remix'
+[2025-11-22 19:56:12][FOUND] ID: 1994546083 | LK NHẠC TẾT 2025 REMIX - NHẠC XUÂN 2025 REMIX HAY NHẤT HIỆN NAY - CHÚC MỪNG NĂM MỚI ẤT TỴ 2025 - Vllbhkjyi Hdjn | Audio: /proxy_audio?id=1994546083  | Lyric: /proxy_lyric?id=1994546083
+[2025-11-22 19:56:12][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=1994546083
+[2025-11-22 20:00:23][SEARCH] Searching: 'anh'
+[2025-11-22 20:00:24][FOUND] ID: 1779723318 | Anh - Hazel - Alex | Audio: /proxy_audio?id=1779723318  | Lyric: /proxy_lyric?id=1779723318
+[2025-11-22 20:00:24][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=1779723318
+[2025-11-22 21:56:05][SEARCH] Searching: 'Believer'
+[2025-11-22 21:56:07][FOUND] ID: 795556546 | Imagine Dragons - Believer (Remix) - João Faria | Audio: /proxy_audio?id=795556546  | Lyric: /proxy_lyric?id=795556546
+[2025-11-22 21:56:07][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=795556546
+[2025-11-23 10:51:53][SEARCH] Searching: 'Thức Tình'
+[2025-11-23 10:51:54][FOUND] ID: 831482368 | Nơi Tình Yêu Kết Thúc - Bùi Anh Tuấn - Cha Bu | Audio: /proxy_audio?id=831482368  | Lyric: /proxy_lyric?id=831482368
+[2025-11-23 10:51:54][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=831482368
+[2025-11-23 10:57:36][SEARCH] Searching: 'Anh Đã Làm Gì Đâu'
+[2025-11-23 10:57:38][FOUND] ID: 1972573043 | Anh đã làm gì đâu-Nhật Hoàng ft Thuỳ Chi - phmnganh | Audio: /proxy_audio?id=1972573043  | Lyric: /proxy_lyric?id=1972573043
+[2025-11-23 10:57:38][RETURN] Returning song with RELATIVE paths => Audio: /proxy_audio?id=1972573043

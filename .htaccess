@@ -1,0 +1,18 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+# Nếu file hoặc thư mục không tồn tại → chuyển hướng về PHP router
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# 1) /stream_pcm  → stream_pcm.php
+RewriteRule ^stream_pcm$ stream_pcm.php [L,QSA]
+
+# 2) /proxy_audio  → proxy_audio.php
+RewriteRule ^proxy_audio$ proxy_audio.php [L,QSA]
+
+# 3) /proxy_lyric  → proxy_lyric.php
+RewriteRule ^proxy_lyric$ proxy_lyric.php [L,QSA]
+
+# 4) Friendly URL: /music/tenbaihat.mp3 → /music/tenbaihat.mp3
+# (Giữ nguyên, không rewrite, không phá MP3)
