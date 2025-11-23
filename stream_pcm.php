@@ -16,7 +16,7 @@ if (!isset($_GET["song"]) || trim($_GET["song"]) == "") {
 $q = trim($_GET["song"]);
 write_log("SEARCH", "Searching: '$q'");
 
-$client_id = "xwYTVSni6n4FghaI0c4uJ8T9c4pyJ3rh";
+$client_id = "Nhập Client ID";
 
 $search_url = "https://api-v2.soundcloud.com/search/tracks?q=" . urlencode($q) . "&client_id=$client_id&limit=1";
 
